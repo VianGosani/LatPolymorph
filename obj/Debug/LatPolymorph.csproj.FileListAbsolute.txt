@@ -1,0 +1,7 @@
+D:\18.11.2324\LatPolymorph\LatPolymorph\bin\Debug\LatPolymorph.exe.config
+D:\18.11.2324\LatPolymorph\LatPolymorph\bin\Debug\LatPolymorph.exe
+D:\18.11.2324\LatPolymorph\LatPolymorph\bin\Debug\LatPolymorph.pdb
+D:\18.11.2324\LatPolymorph\LatPolymorph\obj\Debug\LatPolymorph.csprojAssemblyReference.cache
+D:\18.11.2324\LatPolymorph\LatPolymorph\obj\Debug\LatPolymorph.csproj.CoreCompileInputs.cache
+D:\18.11.2324\LatPolymorph\LatPolymorph\obj\Debug\LatPolymorph.exe
+D:\18.11.2324\LatPolymorph\LatPolymorph\obj\Debug\LatPolymorph.pdb
